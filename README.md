@@ -31,3 +31,5 @@
 ![8](https://github.com/whasdnck/1-/assets/127116197/ec616082-c790-4e18-8b69-2dfdfedefdc8)
 ![9](https://github.com/whasdnck/1-/assets/127116197/9c71879d-4d89-404c-ae00-366cd68041d8)
 ![10](https://github.com/whasdnck/1-/assets/127116197/8dd76a22-3ee9-42de-bbc3-41c39872383a)
+
+
