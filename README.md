@@ -8,49 +8,49 @@
 #### ✨ 관리자 화면 ✨ 
 ![image](https://github.com/whasdnck/1-/assets/127116197/cb0d8711-6c3c-49f9-885d-a6b4d7057b02)
 
-## ✨ 변수 ✨
+#### ✨ 변수 ✨
 ![화면 캡처 2023-07-13 170536](https://github.com/whasdnck/1-/assets/127116197/8b5de01c-1ebd-4ec6-83e8-8dcd3fa267ca)
 
-## ✨ + 버튼을 눌렀을 때 메뉴 추가 ✨
+#### ✨ + 버튼을 눌렀을 때 메뉴 추가 ✨
 ![화면 캡처 2023-07-13 170712](https://github.com/whasdnck/1-/assets/127116197/d1c4ff05-fb5c-4350-98b2-51856d1fa1ab)
 
-## ✨ 메소드를 생성하여 +버튼을 누를때마다 count[n] +1 증가 ✨
+#### ✨ 메소드를 생성하여 +버튼을 누를때마다 count[n] +1 증가 ✨
 ![화면 캡처 2023-07-13 170833](https://github.com/whasdnck/1-/assets/127116197/59124e0f-edbb-4459-b5d2-386e1b8ebf59)
 
-## ✨ 버튼을 눌렀을 때 그메뉴 -1✨
+#### ✨ 버튼을 눌렀을 때 그메뉴 -1✨
 ![화면 캡처 2023-07-13 171041](https://github.com/whasdnck/1-/assets/127116197/efd9a09e-fd8a-4d90-8996-d7f4a7181c5f)
 
-## ✨ 취소 버튼을 눌렀을 때 모든 변수방과 사용자에게 보여지는 화면 초기화 ✨
+#### ✨ 취소 버튼을 눌렀을 때 모든 변수방과 사용자에게 보여지는 화면 초기화 ✨
 ![화면 캡처 2023-07-13 171233](https://github.com/whasdnck/1-/assets/127116197/8066529d-13bf-48ad-9a95-64091302d1f1)
 
-## ✨ 계산 버튼을 눌렀을 때 추가한 메뉴의 총합계 화면에 출력 ✨
+#### ✨ 계산 버튼을 눌렀을 때 추가한 메뉴의 총합계 화면에 출력 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/8d278d96-40a7-4411-98a4-393b675b14b4)
 ![image](https://github.com/whasdnck/1-/assets/127116197/463fdacf-e66a-4f67-b854-3ff170946c70)
 
-## ✨ 주문하기 버튼을 눌렀을 때 DB에 연결하여 주문내역을 DB에 저장하기 ✨
+#### ✨ 주문하기 버튼을 눌렀을 때 DB에 연결하여 주문내역을 DB에 저장하기 ✨
 ![화면 캡처 2023-07-13 171515](https://github.com/whasdnck/1-/assets/127116197/12b238bb-8c26-4d1c-a7e5-0602299097e3)
 
-## ✨ 총합계가 0이 아니면 DB접속 클래스를 호출하여 DB접속 ✨
+####✨ 총합계가 0이 아니면 DB접속 클래스를 호출하여 DB접속 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/40e6b239-ae8e-4fec-b8c5-41e64ae722bd)
 
-## ✨ DB에서 실행 할 SQL문 작성하고 ps에 SQL문을 저장 ✨
+#### ✨ DB에서 실행 할 SQL문 작성하고 ps에 SQL문을 저장 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/ca309e77-ab72-4276-92c7-e7fddd2b4cf3)
 
-## ✨ SQL문의 ? 자리에 각 메뉴와 합계를 넣어준 뒤 rs에 SQL을 실행하여 나온 결과값을 저장 ✨
+#### ✨ SQL문의 ? 자리에 각 메뉴와 합계를 넣어준 뒤 rs에 SQL을 실행하여 나온 결과값을 저장 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/686c8aa1-4e5c-42a7-b145-a3f51bd4ad7a)
 
-## ✨ rs에 저장된 값이 있다면 즉, SQL문이 실행이 되었다면 DB에 저장이 된것이기 때문에 주문이 완료 되었습니다  안내창 띄워주기 그리고 모든 변수방 초기화 ✨
+#### ✨ rs에 저장된 값이 있다면 즉, SQL문이 실행이 되었다면 DB에 저장이 된것이기 때문에 주문이 완료 되었습니다  안내창 띄워주기 그리고 모든 변수방 초기화 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/19f5123e-36d1-4b08-a577-4c8fb00d33df)
 ![image](https://github.com/whasdnck/1-/assets/127116197/cddac19a-f010-4961-9952-c0fae167cb31)
 
-## ✨ rs에 저장된 값이 없다면 SQL 오류 메시지 안내창 띄워주기 ✨
+#### ✨ rs에 저장된 값이 없다면 SQL 오류 메시지 안내창 띄워주기 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/bf35af88-591b-470f-a4cd-fd2a5eb2f3c0)
 
-## ✨ 관리자 로그인 버튼을 눌렀을 때 관리자 로그인 화면 활성화 ✨
+#### ✨ 관리자 로그인 버튼을 눌렀을 때 관리자 로그인 화면 활성화 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/e651e69c-ace8-43d5-9675-6283f28c88e4)
 ![image](https://github.com/whasdnck/1-/assets/127116197/3d10ce9a-45f3-4cf8-ab50-80c69dc03d0b)
 
-## ✨ 로그인 화면에서 로그인하기 ✨
+#### ✨ 로그인 화면에서 로그인하기 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/b27e3038-950d-472c-9817-051c2b990a38)
 
 # ✨ 아이디 칸 또는 비밀번호 칸이 비어 있으면 경고 메시지 출력 ✨
