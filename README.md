@@ -94,4 +94,5 @@
 
 ## ✨ 날짜 조회 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/d39abe1a-46e4-420c-8e8b-670cf09ae5fb)
-![image](https://github.com/whasdnck/1-/assets/127116197/385abc09-abb3-4eb7-b0a1-07e330a118be)
+![image](https://github.com/whasdnck/1-/assets/127116197/cbac50f9-2216-4ee3-b267-0cf950b19001)
+
