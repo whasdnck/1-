@@ -53,49 +53,49 @@
 #### ✨ 로그인 화면에서 로그인하기 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/b27e3038-950d-472c-9817-051c2b990a38)
 
-# ✨ 아이디 칸 또는 비밀번호 칸이 비어 있으면 경고 메시지 출력 ✨
+#### ✨ 아이디 칸 또는 비밀번호 칸이 비어 있으면 경고 메시지 출력 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/f2860c97-0cf0-43f4-8ff5-16de54b445be)
 
-# ✨ 그 외에는 DB 접속 후 SQL 작성 ✨
+#### ✨ 그 외에는 DB 접속 후 SQL 작성 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/5a00b9fc-5004-481e-8be3-a2d5707f4f28)
 
-# ✨ ps에 SQL문을 저장하고 ? 자리에 ID칸에 있는 데이터와 PW칸에 있는 데이터를 넣어주고 rs에 SQL문 실행 결과값을 저장 ✨
+#### ✨ ps에 SQL문을 저장하고 ? 자리에 ID칸에 있는 데이터와 PW칸에 있는 데이터를 넣어주고 rs에 SQL문 실행 결과값을 저장 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/88519af8-22ac-4f90-b640-d96fd556d860)
 
-# ✨rs에 값이 있다면 id와 pw 모두 제대로 입력한 것이므로 로그인 성공 메시지를 띄워주고 관리자 로그인창은 닫기 그런다음 관리자 화면 띄우기 아니면 로그인 실패 메시지 띄우기 ✨
+#### ✨rs에 값이 있다면 id와 pw 모두 제대로 입력한 것이므로 로그인 성공 메시지를 띄워주고 관리자 로그인창은 닫기 그런다음 관리자 화면 띄우기 아니면 로그인 실패 메시지 띄우기 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/0175e551-9b86-4752-aa19-c9b1077f2dd2)
 
-# ✨ 취소 버튼과 닫기 버튼 ✨
+#### ✨ 취소 버튼과 닫기 버튼 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/7abcfc19-3783-4a44-83f1-9d84421c0b53)
 
-# ✨ 로그인 성공  ✨
+#### ✨ 로그인 성공  ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/5c5f251c-575f-4036-9828-ed45f491beaf)
 
-# ✨ 새로운 Orderlist라는 이름의 클래스를 만들어서 생성자, 게터, 세터 지정 그런다음 각 열 이름 지정 ✨
+#### ✨ 새로운 Orderlist라는 이름의 클래스를 만들어서 생성자, 게터, 세터 지정 그런다음 각 열 이름 지정 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/b44b1768-7a79-4908-897d-c046a29c13de)
 
-# ✨ 이니셜라이즈를 이용하여 코드가 실행되는 순간 바로 실행 DB연동을 통한 테이블의 열에 데이터 삽입 ✨
+#### ✨ 이니셜라이즈를 이용하여 코드가 실행되는 순간 바로 실행 DB연동을 통한 테이블의 열에 데이터 삽입 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/0fe36224-731a-42da-b2b0-6ef06e5cca0d)
 
-# ✨ 전체조회 클릭시 DB에 접속하고 SQL문을 실행하여 결과값 rs에 저장하기 ✨
+#### ✨ 전체조회 클릭시 DB에 접속하고 SQL문을 실행하여 결과값 rs에 저장하기 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/1e109cd3-f9a9-4469-b84e-34080916b499)
 
-# ✨ 값을 누적하여 저장한 뒤 출력 할 arraylist 생성, 최종값 출력을 위한 변수방 선언과 동시에 누를때마다 결과값 초기화 ✨ 
+#### ✨ 값을 누적하여 저장한 뒤 출력 할 arraylist 생성, 최종값 출력을 위한 변수방 선언과 동시에 누를때마다 결과값 초기화 ✨ 
 ![image](https://github.com/whasdnck/1-/assets/127116197/703e9951-b1c9-4e06-854b-4079d3f1acec)
 
-# ✨ while문을 이용하여 rs에 값이 있을때 동안 datalist에 값 누적시키기 ✨
+#### ✨ while문을 이용하여 rs에 값이 있을때 동안 datalist에 값 누적시키기 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/83e04fb5-7bb1-423c-b898-02825f6738e0)
 
-# ✨ 누적 시킨 값 누적하여 변수방에 저장 ✨
+#### ✨ 누적 시킨 값 누적하여 변수방에 저장 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/a89c46e2-fa70-4250-8f0b-6cde578abe34)
 
-# ✨ datalist와 통계창에 누적시킨 결과값 출력 ✨
+#### ✨ datalist와 통계창에 누적시킨 결과값 출력 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/538dfb46-033a-485c-9557-6b62060a7d94)
 ![image](https://github.com/whasdnck/1-/assets/127116197/53251753-9299-4f03-9480-1e6bf76e89c5)
 
-# ✨ 날짜 조회와 기간별 조회는 SQL문 말고 다른 코드는 다 동일하므로 SQL문만 기재함. ✨
+#### ✨ 날짜 조회와 기간별 조회는 SQL문 말고 다른 코드는 다 동일하므로 SQL문만 기재함. ✨
 
-## ✨ 날짜 조회 ✨
+#### ✨ 날짜 조회 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/d39abe1a-46e4-420c-8e8b-670cf09ae5fb)
 ![image](https://github.com/whasdnck/1-/assets/127116197/01eee3e1-1ac6-45cd-89fe-4a2362cdbd99)
 
