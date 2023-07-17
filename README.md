@@ -1,14 +1,17 @@
 # kiosk🎊
 
 ## ✨ 완성 화면 ✨
+### ✨ 주문 화면 ✨
 ![화면 캡처 2023-07-13 165936](https://github.com/whasdnck/1-/assets/127116197/907ffd87-37f8-4067-b176-0e6835291397)
+### ✨ 관리자 로그인 화면 ✨
 ![화면 캡처 2023-07-13 170058](https://github.com/whasdnck/1-/assets/127116197/32bb73ec-42f0-46c3-8bae-ebcf4d4200e5)
-![화면 캡처 2023-07-13 170243](https://github.com/whasdnck/1-/assets/127116197/f6b95ea5-9487-4f07-8802-3e9ca9e42145)
+### ✨ 관리자 화면 ✨ 
+![image](https://github.com/whasdnck/1-/assets/127116197/cb0d8711-6c3c-49f9-885d-a6b4d7057b02)
 
 ## ✨ 변수 ✨
 ![화면 캡처 2023-07-13 170536](https://github.com/whasdnck/1-/assets/127116197/8b5de01c-1ebd-4ec6-83e8-8dcd3fa267ca)
 
-## ✨ 버튼을 눌렀을 때 메뉴 추가함 ✨
+## ✨ + 버튼을 눌렀을 때 메뉴 추가 ✨
 ![화면 캡처 2023-07-13 170712](https://github.com/whasdnck/1-/assets/127116197/d1c4ff05-fb5c-4350-98b2-51856d1fa1ab)
 
 ## ✨ 메소드를 생성하여 +버튼을 누를때마다 count[n] +1 증가 ✨
@@ -66,7 +69,7 @@
 ![image](https://github.com/whasdnck/1-/assets/127116197/7abcfc19-3783-4a44-83f1-9d84421c0b53)
 
 # ✨ 로그인 성공  ✨
-![image](https://github.com/whasdnck/1-/assets/127116197/31a30e3b-32e1-4207-97a9-b6bd9b847fab)
+![image](https://github.com/whasdnck/1-/assets/127116197/5c5f251c-575f-4036-9828-ed45f491beaf)
 
 # ✨ 새로운 Orderlist라는 이름의 클래스를 만들어서 생성자, 게터, 세터 지정 그런다음 각 열 이름 지정 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/b44b1768-7a79-4908-897d-c046a29c13de)
@@ -87,12 +90,13 @@
 ![image](https://github.com/whasdnck/1-/assets/127116197/a89c46e2-fa70-4250-8f0b-6cde578abe34)
 
 # ✨ datalist와 통계창에 누적시킨 결과값 출력 ✨
-![image](https://github.com/whasdnck/1-/assets/127116197/35712102-5fbf-4f04-b00c-174e0c14896c)
+![image](https://github.com/whasdnck/1-/assets/127116197/538dfb46-033a-485c-9557-6b62060a7d94)
 ![image](https://github.com/whasdnck/1-/assets/127116197/53251753-9299-4f03-9480-1e6bf76e89c5)
 
 # ✨ 날짜 조회와 기간별 조회는 SQL문 말고 다른 코드는 다 동일하므로 SQL문만 기재함. ✨
 
 ## ✨ 날짜 조회 ✨
 ![image](https://github.com/whasdnck/1-/assets/127116197/d39abe1a-46e4-420c-8e8b-670cf09ae5fb)
-![image](https://github.com/whasdnck/1-/assets/127116197/cbac50f9-2216-4ee3-b267-0cf950b19001)
+![image](https://github.com/whasdnck/1-/assets/127116197/01eee3e1-1ac6-45cd-89fe-4a2362cdbd99)
+
 
